@@ -1,0 +1,27 @@
+_repo: Great-Pictures-As-Seen-and-Described-by-Famous-Writers_17478
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Singleton, Esther
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '7412'
+    url: http://www.gutenberg.org/2009/agents/7412
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2006-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painting'
+title: Great Pictures, As Seen and Described by Famous Writers
+url: http://www.gutenberg.org/ebooks/17478
